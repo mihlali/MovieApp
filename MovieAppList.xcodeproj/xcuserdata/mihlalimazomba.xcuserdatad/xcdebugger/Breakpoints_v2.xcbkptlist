@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "21986FB2-9C1D-45CC-B45E-88EA395EFEA5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6EC7443B-C428-4994-A657-A742A8E2929F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieAppList/Model/MovieListServiceConcrete.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "fetchAndDecode(url:parameters:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6EC7443B-C428-4994-A657-A742A8E2929F - 239ec7f24f31bc77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MovieAppList.MovieListServiceConcrete.fetchAndDecode&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "MovieAppList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mihlalimazomba/Documents/Developer%20Practice/MovieAppList/MovieAppList/Model/MovieListServiceConcrete.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "904">
+               </Location>
+               <Location
+                  uuid = "6EC7443B-C428-4994-A657-A742A8E2929F - 239ec7f24f31bc77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MovieAppList.MovieListServiceConcrete.fetchAndDecode&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "MovieAppList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mihlalimazomba/Documents/Developer%20Practice/MovieAppList/MovieAppList/Model/MovieListServiceConcrete.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1240">
+               </Location>
+               <Location
+                  uuid = "6EC7443B-C428-4994-A657-A742A8E2929F - 239ec7f24f31bc58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MovieAppList.MovieListServiceConcrete.fetchAndDecode&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "MovieAppList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mihlalimazomba/Documents/Developer%20Practice/MovieAppList/MovieAppList/Model/MovieListServiceConcrete.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
